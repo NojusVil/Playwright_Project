@@ -18,7 +18,6 @@ const logger = winston.createLogger({
     customFormat
   ),
   transports: [
-    new winston.transports.Console({ level: "debug" }),
     new winston.transports.File({
       filename: path.join(LoggingDirectory, "test_info.log"),
       maxFiles: 5,
