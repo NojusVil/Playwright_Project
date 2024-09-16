@@ -1,0 +1,64 @@
+2024-09-14T14:48:17+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-14T17:58:19+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-14T20:51:04+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-14T20:51:43+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-14T21:37:43+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-16T10:20:19+03:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-16T10:20:21+03:00 [error]: Error clicking login button: Error: expect.toBeVisible: Target page, context or browser has been closed
+2024-09-16T10:53:08+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+

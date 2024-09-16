@@ -1,0 +1,118 @@
+2024-09-16T10:20:11+03:00 [info]: Navigated to the login page
+2024-09-16T10:20:11+03:00 [info]: Filled username
+2024-09-16T10:20:11+03:00 [info]: Filled password
+2024-09-16T10:20:12+03:00 [info]: Login button clicked
+2024-09-16T10:20:15+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:20:15+03:00 [info]: Login test completed
+2024-09-16T10:20:15+03:00 [info]: Create button clicked
+2024-09-16T10:20:15+03:00 [info]: User button clicked
+2024-09-16T10:20:16+03:00 [info]: User Page is Visible
+2024-09-16T10:20:17+03:00 [info]: Navigated to the login page
+2024-09-16T10:20:18+03:00 [info]: Filled username
+2024-09-16T10:20:18+03:00 [info]: Filled password
+2024-09-16T10:20:18+03:00 [info]: Login button clicked
+2024-09-16T10:20:19+03:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-16T10:20:20+03:00 [info]: Navigated to the login page
+2024-09-16T10:20:20+03:00 [info]: Filled username
+2024-09-16T10:20:20+03:00 [info]: Filled password
+2024-09-16T10:20:21+03:00 [info]: Login button clicked
+2024-09-16T10:20:21+03:00 [error]: Error clicking login button: Error: expect.toBeVisible: Target page, context or browser has been closed
+2024-09-16T10:22:22+03:00 [info]: Navigated to the login page
+2024-09-16T10:22:22+03:00 [info]: Filled username
+2024-09-16T10:22:22+03:00 [info]: Filled password
+2024-09-16T10:22:23+03:00 [info]: Login button clicked
+2024-09-16T10:22:27+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:22:27+03:00 [info]: Login test completed
+2024-09-16T10:22:27+03:00 [info]: Create button clicked
+2024-09-16T10:22:27+03:00 [info]: User button clicked
+2024-09-16T10:22:28+03:00 [info]: User Page is Visible
+2024-09-16T10:22:31+03:00 [info]: First name filled Sydney
+2024-09-16T10:22:31+03:00 [info]: Last name filled McDermott
+2024-09-16T10:22:31+03:00 [info]: Alias filled Ramon_Gibson47
+2024-09-16T10:22:31+03:00 [info]: Email filled Jammie.Barrows@yahoo.com
+2024-09-16T10:22:31+03:00 [info]: Username filled Forrest.Tillman@hotmail.com
+2024-09-16T10:22:31+03:00 [info]: New User Has Been Created
+2024-09-16T10:22:34+03:00 [info]: Correct User Was Created Sydney McDermott
+2024-09-16T10:22:34+03:00 [info]: Navigated to the login page
+2024-09-16T10:22:34+03:00 [info]: Filled username
+2024-09-16T10:22:34+03:00 [info]: Filled password
+2024-09-16T10:22:35+03:00 [info]: Login button clicked
+2024-09-16T10:22:37+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:22:37+03:00 [info]: Login test completed
+2024-09-16T10:22:37+03:00 [info]: Create button clicked
+2024-09-16T10:22:37+03:00 [info]: User button clicked
+2024-09-16T10:22:38+03:00 [info]: User Page is Visible
+2024-09-16T10:22:39+03:00 [info]: First name filled Talon
+2024-09-16T10:22:39+03:00 [info]: Last name filled Ruecker
+2024-09-16T10:22:39+03:00 [info]: Alias filled Pauline92
+2024-09-16T10:22:39+03:00 [info]: Email filled Arlie76@gmail.com
+2024-09-16T10:22:39+03:00 [info]: Username filled Mariano_Schowalter-Weimann68@hotmail.com
+2024-09-16T10:22:39+03:00 [info]: New User Has Been Created
+2024-09-16T10:22:41+03:00 [info]: Correct User Was Created Talon Ruecker
+2024-09-16T10:22:42+03:00 [info]: Navigated to the login page
+2024-09-16T10:22:42+03:00 [info]: Filled username
+2024-09-16T10:22:42+03:00 [info]: Filled password
+2024-09-16T10:22:43+03:00 [info]: Login button clicked
+2024-09-16T10:22:45+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:22:45+03:00 [info]: Login test completed
+2024-09-16T10:22:45+03:00 [info]: Create button clicked
+2024-09-16T10:22:45+03:00 [info]: User button clicked
+2024-09-16T10:22:46+03:00 [info]: User Page is Visible
+2024-09-16T10:22:47+03:00 [info]: First name filled Celia
+2024-09-16T10:22:47+03:00 [info]: Last name filled King
+2024-09-16T10:22:47+03:00 [info]: Alias filled Dedric.Weimann87
+2024-09-16T10:22:48+03:00 [info]: Email filled Dante.Wyman@gmail.com
+2024-09-16T10:22:48+03:00 [info]: Username filled Clay.Walter@hotmail.com
+2024-09-16T10:22:48+03:00 [info]: New User Has Been Created
+2024-09-16T10:22:50+03:00 [info]: Correct User Was Created Celia King
+2024-09-16T10:53:02+03:00 [info]: Navigated to the login page
+2024-09-16T10:53:02+03:00 [info]: Navigated to the login page
+2024-09-16T10:53:02+03:00 [info]: Navigated to the login page
+2024-09-16T10:53:02+03:00 [info]: Filled username
+2024-09-16T10:53:02+03:00 [info]: Filled username
+2024-09-16T10:53:03+03:00 [info]: Filled username
+2024-09-16T10:53:03+03:00 [info]: Filled password
+2024-09-16T10:53:03+03:00 [info]: Filled password
+2024-09-16T10:53:03+03:00 [info]: Filled password
+2024-09-16T10:53:03+03:00 [info]: Login button clicked
+2024-09-16T10:53:03+03:00 [info]: Login button clicked
+2024-09-16T10:53:04+03:00 [info]: Login button clicked
+2024-09-16T10:53:08+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:53:08+03:00 [info]: Login test completed
+2024-09-16T10:53:08+03:00 [info]: Create button clicked
+2024-09-16T10:53:08+03:00 [info]: User button clicked
+2024-09-16T10:53:08+03:00 [info]: Home page text is visible. Login was successful.
+2024-09-16T10:53:08+03:00 [info]: Login test completed
+2024-09-16T10:53:08+03:00 [error]: Error clicking login button: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByRole('heading', { name: 'Home' }).locator('span')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByRole('heading', { name: 'Home' }).locator('span')[22m
+
+2024-09-16T10:53:09+03:00 [info]: User Page is Visible
+2024-09-16T10:53:09+03:00 [info]: Create button clicked
+2024-09-16T10:53:09+03:00 [info]: User button clicked
+2024-09-16T10:53:10+03:00 [info]: User Page is Visible
+2024-09-16T10:53:10+03:00 [info]: First name filled Celia
+2024-09-16T10:53:10+03:00 [info]: Last name filled King
+2024-09-16T10:53:10+03:00 [info]: Alias filled Dedric.Weimann87
+2024-09-16T10:53:11+03:00 [info]: Email filled Dante.Wyman@gmail.com
+2024-09-16T10:53:11+03:00 [info]: Username filled Clay.Walter@hotmail.com
+2024-09-16T10:53:11+03:00 [info]: First name filled Talon
+2024-09-16T10:53:11+03:00 [info]: Last name filled Ruecker
+2024-09-16T10:53:11+03:00 [info]: Alias filled Pauline92
+2024-09-16T10:53:11+03:00 [info]: New User Has Been Created
+2024-09-16T10:53:11+03:00 [info]: Email filled Arlie76@gmail.com
+2024-09-16T10:53:11+03:00 [info]: Username filled Mariano_Schowalter-Weimann68@hotmail.com
+2024-09-16T10:53:11+03:00 [info]: New User Has Been Created
