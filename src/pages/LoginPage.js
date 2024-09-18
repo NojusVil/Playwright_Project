@@ -14,10 +14,10 @@ export class LoginPage {
     );
     logger.info("Navigated to the login page");
   }
-  async login(username, password) {
-    await this.username_textbox.fill(username);
+  async login(Login_Username, Login_Password) {
+    await this.username_textbox.fill(Login_Username);
     logger.info("Filled username");
-    await this.password_textbox.fill(password);
+    await this.password_textbox.fill(Login_Password);
     logger.info("Filled password");
     await this.login_button.click();
     logger.info("Login button clicked");
