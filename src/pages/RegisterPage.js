@@ -1,4 +1,4 @@
-import { Page } from "@playwright/test";
+import { expect, Page } from "@playwright/test";
 import logger from "../utils/ResultLogger";
 
 export class NewUserRegisterPage {
@@ -20,6 +20,7 @@ export class NewUserRegisterPage {
       name: "I agree to the Main Services",
     });
     this.SignUpButton = page.getByRole("button", { name: "Sign me Up" });
+    this.VerifyText = page.getByRole("heading", { name: "Almost there…" });
   }
   async goToRegisterPage() {
     await this.page.goto("https://developer.salesforce.com/signup");
@@ -72,5 +73,14 @@ export class NewUserRegisterPage {
   async SingUp() {
     await this.SignUpButton.click();
     logger.info("Sign up button clicked");
+  }
+  async VerifyRegistration() {
+    try {
+      await expect(this.VerifyText).toBeVisible({ timeout: 500000 });
+      logger.info("Registration successful verify email");
+    } catch (error) {
+      logger.error(`Error completing registration: ${error}`);
+      throw error;
+    }
   }
 }

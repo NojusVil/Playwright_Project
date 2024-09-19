@@ -21,5 +21,6 @@ test("register new user", async ({ page }) => {
   );
   await Register.AcceptTerms();
   await Register.SingUp();
+  await Register.VerifyRegistration();
   logger.info("New User Register Form test completed");
 });

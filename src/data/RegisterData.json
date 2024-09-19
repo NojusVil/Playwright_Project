@@ -5,9 +5,9 @@
     "Email_Adress": "validemail@anymail.com",
     "User_Role": "Developer",
     "Company_Name": "Company Name",
-    "User_Country": "AS",
+    "User_Country": "LT",
     "User_Postal_Code": "55555",
-    "User_Username": "Username@UsernameTestersss.com",
+    "User_Username": "Username@AbcTestMail.com",
     "User_State": "Alaska",
     "COMMENT": "STATE IS NEEDED ONLY IF COUNTRY IS US"
   }
