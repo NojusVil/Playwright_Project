@@ -50,6 +50,7 @@ This test automation project focuses to highlight the basic of test automation u
 3. Create Tests using Page class and its methods to register a new user.
    - Fill out all the data.
    - Complete the registration form.
+   - Verify if the registration was successful.
    - Log the results.
      
 ## 4. How to replicate
